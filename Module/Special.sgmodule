@@ -14,6 +14,7 @@ DOMAIN,mtalk.google.com,DIRECT
 # > Tencent
 DOMAIN,livew.l.qq.com,DIRECT
 DOMAIN,vd.l.qq.com,DIRECT
+PROCESS-NAME,/Applications/QQMusic.app/Contents/MacOS/QQMusic,DIRECT
 # > Strava
 DOMAIN,analytics.strava.com,DIRECT
 # > Umeng
