@@ -10,11 +10,15 @@ DOMAIN,mtalk.google.com
 # > Tencent
 DOMAIN,livew.l.qq.com
 DOMAIN,vd.l.qq.com
+DOMAIN-SUFFIX,qq.com
 # > Strava
 DOMAIN,analytics.strava.com
 # > Umeng
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
+
+# > aigcbest.top
+DOMAIN-SUFFIX,aigcbest.top
 
 # > Download
 PROCESS-NAME,aria2c
