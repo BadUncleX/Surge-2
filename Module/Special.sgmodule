@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,tencentmusic.com,DIRECT
 PROCESS-NAME,/Applications/QQMusic.app/Contents/MacOS/QQMusic,DIRECT
 
 # > aigcbest.top
-DOMAIN-SUFFIX,aigcbest.top,DIRECT
+# DOMAIN-SUFFIX,aigcbest.top,DIRECT
 
 # > Strava
 DOMAIN,analytics.strava.com,DIRECT
