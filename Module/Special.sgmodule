@@ -21,6 +21,9 @@ PROCESS-NAME,/Applications/QQMusic.app/Contents/MacOS/QQMusic,DIRECT
 # > aigcbest.top
 # DOMAIN-SUFFIX,aigcbest.top,DIRECT
 
+# > deepseek.com
+DOMAIN-SUFFIX,deepseek.com,DIRECT
+
 # > Strava
 DOMAIN,analytics.strava.com,DIRECT
 # > Umeng
