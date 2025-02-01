@@ -24,6 +24,10 @@ PROCESS-NAME,/Applications/QQMusic.app/Contents/MacOS/QQMusic,DIRECT
 # > deepseek.com
 DOMAIN-SUFFIX,deepseek.com,DIRECT
 
+# > siliconflow.cn
+DOMAIN-SUFFIX,siliconflow.cn,DIRECT
+
+
 # > Strava
 DOMAIN,analytics.strava.com,DIRECT
 # > Umeng
