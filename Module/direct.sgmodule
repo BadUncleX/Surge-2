@@ -1,0 +1,15 @@
+# > Tencent
+DOMAIN,livew.l.qq.com,DIRECT
+DOMAIN,vd.l.qq.com,DIRECT
+DOMAIN-SUFFIX,qq.com,DIRECT
+DOMAIN-SUFFIX,tencentmusic.com,DIRECT
+PROCESS-NAME,/Applications/QQMusic.app/Contents/MacOS/QQMusic,DIRECT
+
+# > aigcbest.top
+DOMAIN-SUFFIX,aigcbest.top,DIRECT
+
+# > deepseek.com
+DOMAIN-SUFFIX,deepseek.com,DIRECT
+
+# > siliconflow.cn
+DOMAIN-SUFFIX,siliconflow.cn,DIRECT
