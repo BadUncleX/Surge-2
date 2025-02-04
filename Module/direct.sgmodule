@@ -2,7 +2,7 @@
 #!desc=direct to china
 
 [Rule]
-
+ 
 # > Tencent
 DOMAIN,livew.l.qq.com,DIRECT
 DOMAIN,vd.l.qq.com,DIRECT
