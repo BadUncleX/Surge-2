@@ -14,7 +14,7 @@ PROCESS-NAME,/Applications/QQMusic.app/Contents/MacOS/QQMusic,DIRECT
 DOMAIN-SUFFIX,aigcbest.top,DIRECT
 
 # > deepseek.com
-DOMAIN-SUFFIX,deepseek.com,DIRECT
+# DOMAIN-SUFFIX,deepseek.com,DIRECT
 
 # > siliconflow.cn
 DOMAIN-SUFFIX,siliconflow.cn,DIRECT
