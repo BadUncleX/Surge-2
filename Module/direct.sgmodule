@@ -18,3 +18,7 @@ DOMAIN-SUFFIX,aigcbest.top,DIRECT
 
 # > siliconflow.cn
 DOMAIN-SUFFIX,siliconflow.cn,DIRECT
+
+# > wechat mac reject
+DOMAIN-SUFFIX,dldir1v6.qq.com,REJECT
+
