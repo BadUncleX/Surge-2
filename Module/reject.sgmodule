@@ -1,0 +1,8 @@
+#!name=Reject Block
+#!desc=Reject
+
+[Rule]
+# -- Ad Block --
+# > General
+DOMAIN-KEYWORD,dldir1v6,REJECT
+DOMAIN-SUFFIX,dldir1v6.qq.com,REJECT
